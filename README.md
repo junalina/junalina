@@ -1,4 +1,9 @@
 <div align=center>
+  
+![header](https://capsule-render.vercel.app/api?&color=gradient&height=280&text=JUNALINA&animation=fadeIn&fontAlignY=40&type=wave)
+
+  ##  Hi~ My name is daeseok Ko. 😎
+  
 <h2>🛠 Stacks 🛠</h2>
 <p>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
@@ -43,4 +48,9 @@
 
 [![Solved.ac eotjr990](http://mazassumnida.wtf/api/v2/generate_badge?boj=eotjr990)](https://solved.ac/eotjr990)
 
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+
+</div>
+  
 </div>
